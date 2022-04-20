@@ -95,10 +95,13 @@ footer {
 
 #header {
     background-color: rgb(7, 197, 255);
-    color:rgb(255, 0, 208);
     font-size: larger;
 }
 
 #my-info {
-    background-color: rgb(255, 136, 32);
+    background-color: rgb(255, 0, 208);
+}
+
+#animal-style {
+    background-color: yellow;
 }

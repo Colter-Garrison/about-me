@@ -85,8 +85,12 @@ footer {
     bottom: 0;
     display: flex;
     justify-content: flex-end;
-    background-color: var(--color3);
+    background-color: rgb(7, 197, 255);
     box-shadow: var(--shadow);
+}
+
+.hidden {
+    display: none;
 }
 
 #body {
@@ -98,10 +102,10 @@ footer {
     font-size: larger;
 }
 
-#my-info {
+#about-section {
     background-color: rgb(255, 0, 208);
 }
 
-#animal-style {
+.animal-section {
     background-color: yellow;
 }

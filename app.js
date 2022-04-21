@@ -19,4 +19,4 @@ aboutButton.addEventListener('click', () => {
     }
 
     aboutSection.classList.toggle('my-style');
-});
+})

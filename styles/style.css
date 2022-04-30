@@ -85,6 +85,27 @@ footer {
     bottom: 0;
     display: flex;
     justify-content: flex-end;
-    background-color: var(--color3);
+    background-color: rgb(7, 197, 255);
     box-shadow: var(--shadow);
 }
+
+.hidden {
+    display: none;
+}
+
+#body {
+    background-color: blueviolet;
+}
+
+#header {
+    background-color: rgb(7, 197, 255);
+    font-size: larger;
+}
+
+#about-section {
+    background-color: rgb(255, 0, 208);
+}
+
+.animal-section {
+    background-color: yellow;
+};
